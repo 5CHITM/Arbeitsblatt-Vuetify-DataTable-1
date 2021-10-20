@@ -2,7 +2,7 @@
   <v-app>
     <v-app-bar app color="blue-grey lighten-5">
       <div class="d-flex align-center">
-        <v-img alt="Movies Logo" class="shrink mr-2 hidden-md-and-down" contain src="https://www.svgimages.com/svg-image/s5/film-roll-projector.svg" transition="scale-transition" width="40" />
+        <v-img alt="Movies Logo" class="shrink mr-2 hidden-md-and-down" contain src="logo.png" transition="scale-transition" width="40" />
 
         <h1>Movies</h1>
       </div>
